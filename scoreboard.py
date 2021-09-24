@@ -5,7 +5,7 @@ import json
 class scoreboard:
 	# host is the server it connects to
 	global scoreboard_host
-	scoreboard_host = "http://localhost/scoreboard/api/"
+	scoreboard_host = "https://itnerd.dk/scoreboard/api/"
 	
 	def getTop3(id):
 		r = requests.get(scoreboard_host + 'getTop3?id=' +  id)
