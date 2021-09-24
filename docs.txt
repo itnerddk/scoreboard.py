@@ -1,0 +1,13 @@
+getTop3('[your scoreboard id]')
+getTop5('[your scoreboard id]')
+getTop10('[your scoreboard id]')
+
+will return a array with "x" scores, each score is a seperate list inside the list
+
+
+
+
+submitScore('[your scoreboard id]', '[the name]', '[the score]')
+
+will not return anything
+
