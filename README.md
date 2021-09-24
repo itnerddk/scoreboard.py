@@ -1,5 +1,5 @@
 # scoreboard.py
-A simple client for my simplescoreboard, this client is written in python
+A simple client for my simple scoreboard, this client is written in python
 
 note: scoreboard.py require requests
 
